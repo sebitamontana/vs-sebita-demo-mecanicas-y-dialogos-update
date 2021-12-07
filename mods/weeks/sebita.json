@@ -1,0 +1,30 @@
+{
+	"storyName": "vs sebita",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"sebita",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"sebita",
+			"sebita",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "asawasesaeasfesarasefsaefseafaseafseasfeasfeasa8sa9as8a8s8a86sa8"
+}

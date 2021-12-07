@@ -1,0 +1,24 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "sebita",
+	"animations": [
+		{
+			"idle_offsets": [
+				-67,
+				161
+			],
+			"loop_offsets": [
+				-15,
+				157
+			],
+			"anim": "talk",
+			"idle_name": "BF0",
+			"loop_name": "BF LOOP"
+		}
+	]
+}

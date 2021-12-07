@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sebita.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sebita" x="4" y="4" width="326" height="315" pivotX="0" pivotY="15.15" frameX="0" frameY="-15" frameWidth="328" frameHeight="330"/>
+</TextureAtlas>
